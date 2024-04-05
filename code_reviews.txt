@@ -1,0 +1,22 @@
+1. Both companies emphasize the importance of being kind and attempting to minimize friction
+especially when correcting another peron's work. Both also highlight the importance of constant
+feedback, helping people fix mistakes quickly instead of letting them build up. The yelp article 
+states taht reviewing your own code, making sure it complies with the project descriptionand that 
+it is the best work you could have putten forward is very important, but this is not fully 
+mentioned in the other article.  The second article also highlights the emoji feedback 
+technique, but this is omitted from the yelp article.  A proper code review checklist should
+include a check for code quality as well as proper testing of all code.  It should also 
+be completed in a timely manner. You should also make sure that all relevant documentation is
+readily available to those that might need it.
+
+2. https://codereview.stackexchange.com/questions/118830/find-the-number-closest-to-0-breaking-ties-in-favor-of-positive-numbers
+    This review was helpful because it pointed out clear flaws in the user's code and provided clear and easy ways to fix them.
+    It was kind to the user who posted the code and gave examples of how the code could be fixed with an explanation.
+
+    https://codereview.stackexchange.com/questions/289445/java-code-to-delete-all-empty-folders-within-a-directory
+    This review was not super helpful because it only addressed one of the many issues within the code.
+    The reviewer points out one error in the code and provides an example of how to fix it, however, from
+    other reviews of the same code, it is clear that there are many other, more detrimental errors. This review should
+    be more comprehensive, instead of only focusing on one small error.
+
+    
